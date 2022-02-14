@@ -3,8 +3,9 @@
 using namespace std;
 
 int main()
-{
-  return 0;
+{ 
+    cout<<"master1"<<endl;
+    return 0;
 }
 
   
